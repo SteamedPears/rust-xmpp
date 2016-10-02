@@ -1,6 +1,7 @@
 [package]
 name = "libchibi"
 version = "0.1.0"
-authors = ["Bheesham Persaud <me@bheesham.com>"]
+authors = ["Bheesham Persaud <me@bheesham.com>",
+           "Christopher Blackman <mr.christopher.blackman@gmail.com>"]
 
 [dependencies]
