@@ -5,3 +5,11 @@ authors = ["Bheesham Persaud <me@bheesham.com>",
            "Christopher Blackman <mr.christopher.blackman@gmail.com>"]
 
 [dependencies]
+log = "0.3.6"
+futures = "0.1"
+tokio-core = "0.1"
+tokio-proto = { git = "https://github.com/tokio-rs/tokio-proto" }
+tokio-service = { git = "https://github.com/tokio-rs/tokio-service" }
+
+[dev-dependencies]
+env_logger = "0.3.0"[dependencies]
