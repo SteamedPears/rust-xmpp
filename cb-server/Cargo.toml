@@ -1,0 +1,6 @@
+[package]
+name = "cb-server"
+version = "0.1.0"
+authors = ["Bheesham Persaud <me@bheesham.com>"]
+
+[dependencies]
