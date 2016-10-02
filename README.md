@@ -7,4 +7,3 @@ An implementation of XMPP for fun and research.
   * chibi-client: reference client.
   * libchibi: common utility functions.
 
-
